@@ -5,6 +5,7 @@
 # {% if site.google_analytics and jekyll.environment == 'production' %}
 # {% include analytics.html %}
 # {% endif %}
+title: Noi siamo SugarStick, una BCorp!
 theme: jekyll-theme-cayman
 liquid:
   error_mode: warn
