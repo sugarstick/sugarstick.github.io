@@ -5,7 +5,8 @@
 # {% if site.google_analytics and jekyll.environment == 'production' %}
 # {% include analytics.html %}
 # {% endif %}
-title: Noi siamo SugarStick, una BCorp!
 theme: jekyll-theme-cayman
+title: Noi siamo SugarStick, una BCorp!
+description: Fuck your self!
 liquid:
   error_mode: warn
