@@ -1,0 +1,10 @@
+# Google Analytics
+# google_analytics: UA—XXXXXXXX-X
+# This part may vary depending on what Jekyll theme you are using but you will need to paste the following code just before the end </head> tag.
+# For you this could be a head.html file located in your site's _includes/ directory or your default.html file in _layouts/ directory.
+# {% if site.google_analytics and jekyll.environment == 'production' %}
+# {% include analytics.html %}
+# {% endif %}
+theme: jekyll-theme-cayman
+title: Noi siamo SugarStick, una BCorp!
+description: Ciao, siamo un team di ragazzi che vorrebbero rendersi utili nella lotta contro il riscaldamento globale!
