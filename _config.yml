@@ -6,3 +6,5 @@
 # {% include analytics.html %}
 # {% endif %}
 theme: jekyll-theme-cayman
+liquid:
+  error_mode: warn
